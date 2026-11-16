@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn==1.8.0
+xgboost
+shap
+imbalanced-learn
+plotly
+matplotlib
+joblib==1.5.3
+scipy
